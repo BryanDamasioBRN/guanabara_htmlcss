@@ -1,0 +1,38 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/*
+    background: #fff;
+    position: relative;
+    margin-bottom: 20px;
+    box-shadow: 1px 1px 1px black;
+
+    position: absolute;
+*/
+
+header {
+    
+}
+
+p {
+    size: 16px;
+    color: #3B3B3B;
+
+}
+
+.inicial {
+    font-family: 'Poppins', sans-serif;
+    size: 45px;
+    color: #3B3B3B;
+    
+}
+
+img.celular {
+    align
+}
